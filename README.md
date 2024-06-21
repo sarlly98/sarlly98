@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sarlly瓦千住
-- 👀 I’m interested in ...
-<!---
-sarlly98/sarlly98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> my discord : https://discord.gg/SJK3KRaC
+- 👀 I just want you to feel it too...
+<!---everything is free, there is no charge, just use it if you don't understand it, you can teach it
+If you want, please go to my discord server
+--->:https://discord.gg/SJK3KRaC
